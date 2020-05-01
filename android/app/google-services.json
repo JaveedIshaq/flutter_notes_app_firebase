@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694501412935",
+    "firebase_url": "https://brewcrew-c2ac5.firebaseio.com",
+    "project_id": "brewcrew-c2ac5",
+    "storage_bucket": "brewcrew-c2ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694501412935:android:5ff36fdd9cba9bed8ae162",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694501412935-v6pb489fu9gn57ked78c0f3ndjrd8ml6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_notes_app",
+            "certificate_hash": "ba870cb0cda127b628540ea53cdb12922775f3ba"
+          }
+        },
+        {
+          "client_id": "694501412935-5jtjkfp7rta1dde4d5aeias3hnkhvk63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_zkq6_p0ZZgiVkgfkx89TgDmcx3PLdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694501412935-5jtjkfp7rta1dde4d5aeias3hnkhvk63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
